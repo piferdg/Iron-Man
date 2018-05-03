@@ -1,0 +1,26 @@
+.poster {
+    background-color: rgb(142, 52, 49);
+    /* margin: 0 200px; */
+    height: 888px;
+    width: 630px;
+    padding: 50px;
+
+}
+
+.logo {
+    font-family: 'Roboto Condensed', serif;
+    color: rgb(255, 255, 255);
+}
+
+h1 {
+    font-size: 35px;
+   
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    /* align-content: center; */
+    margin-top: 25%;
+    
+} 
